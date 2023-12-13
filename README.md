@@ -5,14 +5,8 @@
 - 🌱 I’m currently learning about IOT
 - 💬 Ask me about Quality Assurance / Test Automation
 
+![Snake animation](https://github.com/seu-usuário-aqui/feeliipe/blob/output/github-contribution-grid-snake.svg)
 
-## GitHub Stats
-
-<div>
-<a href="https://github.com/feeliipe">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeliipe&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=feeliipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +14,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipe-fernandes-pires-a8778220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-fernandes-pires-a8778220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipe-fernandes-pires-a8778220" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 
