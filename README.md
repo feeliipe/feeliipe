@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about IOT
 - 💬 Ask me about Quality Assurance / Test Automation
 
-![Snake animation](https://github.com/feeliipe/feeliipe/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/feeliipe/feeliipe/blob/output/github-contribution-grid-snake2.svg)
 
 
 
