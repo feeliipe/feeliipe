@@ -1,7 +1,3 @@
-# Meu perfil de Qualidade de Software
-
-## Galáxia de Skills
-
-![Test Automation](https://github.com/feeliipe/galaxy-profile/blob/main/assets/generated/test-automation.svg)
-![API Testing](https://github.com/feeliipe/galaxy-profile/blob/main/assets/generated/api-testing.svg)
-![Quality Engineering](https://github.com/feeliipe/galaxy-profile/blob/main/assets/generated/quality-engineering.svg)
+![Galaxy Header](https://raw.githubusercontent.com/feeliipe/galaxy-profile/main/assets/generated/galaxy-header.svg)
+![Projects Constellation](https://raw.githubusercontent.com/feeliipe/galaxy-profile/main/assets/generated/projects-constellation.svg)
+![Tech Stack](https://raw.githubusercontent.com/feeliipe/galaxy-profile/main/assets/generated/tech-stack.svg)
